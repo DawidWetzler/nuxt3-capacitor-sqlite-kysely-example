@@ -4,13 +4,11 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 This example also includes capacitor-sqlite, kysely and capacitor-sqlite-kysely dialect to use them both together.
 
-Please have also a look on
-[@capacitor-community/sqlite][https://github.com/capacitor-community/sqlite]
-[kysely][https://github.com/kysely-org/kysely]
+Please have also a look on [@capacitor-community/sqlite](https://github.com/capacitor-community/sqlite) and [kysely](https://github.com/kysely-org/kysely)
 
 ## Setup
 
-Make sure to install the dependencies:
+Make sure to install the dependenciecs:
 
 ```bash
 # npm
