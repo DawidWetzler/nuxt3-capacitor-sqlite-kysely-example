@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@capacitor-community/sqlite": "^5.4.2-1",
-    "capacitor-sqlite-kysely": "^1.0.0",
+    "capacitor-sqlite-kysely": "^1.0.1",
     "kysely": "^0.26.3"
   }
 }
