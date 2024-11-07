@@ -11,13 +11,13 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
-    "nuxt": "^3.8.0",
+    "nuxt": "^3.14.159",
     "vue": "^3.3.7",
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "@capacitor-community/sqlite": "^5.4.2-1",
-    "capacitor-sqlite-kysely": "^1.0.1",
-    "kysely": "^0.26.3"
+    "@capacitor-community/sqlite": "^6.0.2",
+    "capacitor-sqlite-kysely": "^1.0.2",
+    "kysely": "^0.27.4"
   }
 }
